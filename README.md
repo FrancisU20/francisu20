@@ -27,13 +27,13 @@ Me encantan los retos técnicos, optimizar el código al máximo y aprender cons
 
 <p align="left">
   <a href="https://linkedin.com/in/panchoulloateran" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/panchoulloateran" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" alt="hackerrank" height="30" width="30" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="40" width="40" />
   </a>
   <a href="mailto:panchoulloateran@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="email" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
@@ -64,13 +64,29 @@ Me encantan los retos técnicos, optimizar el código al máximo y aprender cons
 
 ---
 
-### 📊 Estadísticas GitHub
+### 📊 Estadísticas Profesionales
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francisu20&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisu20&layout=compact&langs_count=10" alt="Top Langs" />
-</p>
+| Área                         | Experiencia                                                                 |
+|-----------------------------|----------------------------------------------------------------------------|
+| 🧠 Lógica y backend          | Experto en .NET 8, NestJS, microservicios y diseño de APIs RESTful         |
+| 📱 Desarrollo móvil          | Flutter lover: apps publicadas en producción con +10k descargas            |
+| 🖼️ Frontend web              | Vue 3, React y Angular con enfoque en arquitecturas modulares              |
+| ☁️ Infraestructura           | AWS ECS con Fargate, Secrets Manager, RDS y automatización con GitHub CI  |
+| 🧪 Testing & calidad         | Unit testing con xUnit, Jest y buenas prácticas en cobertura de código     |
+| 🧰 DevOps y despliegues      | Dockerización completa de apps y pipelines automáticos desde GitHub       |
+| 🧱 Arquitectura              | En evolución: aplicando Clean Architecture y DDD en proyectos reales       |
+| 🧾 Base de datos             | Especialista en PostgreSQL y SQL Server, en proceso con MongoDB            |
+| 💡 Soft Skills              | Trabajo en equipo, liderazgo técnico, mentoring y comunicación efectiva   |
+
+---
+
+### 📌 Mis logros destacados
+
+- 🏆 Refactorización completa del sistema de **Smart Contracts** para Banco Diners Club Ecuador
+- 🚀 Migración de infraestructura desde Elastic Beanstalk a ECS Fargate con Docker
+- 📲 Mejora de calificación de la app móvil de **Confiamed** de 0 a 5 estrellas en menos de 6 meses
+- 🧾 Desarrollo de sistema biométrico facial en **Todo Legal** con **MediaPipe + React**
+- 🔐 Arquitectura modular robusta para apps legales, médicas y de fitness en producción
 
 ---
 
